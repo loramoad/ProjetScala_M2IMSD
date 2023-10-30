@@ -1,4 +1,4 @@
-package scala.moad.tikchbila
+package scala.projetbibliotheque
 
 // Classe représentant un livre
 class Livre (val titre: String, val auteur: String, val anneeDePublication: Int) {

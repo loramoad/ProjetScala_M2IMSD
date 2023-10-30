@@ -1,4 +1,4 @@
-package scala.moad.tikchbila
+package scala.projetbibliotheque
 
 // Classe représentant une bibliothèque
 class Bibliothèque {

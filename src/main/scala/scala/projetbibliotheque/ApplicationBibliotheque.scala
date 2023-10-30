@@ -1,4 +1,4 @@
-package scala.moad.tikchbila
+package scala.projetbibliotheque
 
 import scala.io.StdIn
 import java.io.{File, PrintWriter}
